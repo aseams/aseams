@@ -1,16 +1,24 @@
-### Hi there 👋
+### 👋 Hi there! I'm Andrew (or aseams) 👋
 
-<!--
-**aseams/aseams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+&emsp;&emsp;&emsp;[LinkedIn](https://www.linkedin.com/in/andrew-seamon)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[TryHackMe](https://tryhackme.com/p/aseams)
 
-Here are some ideas to get you started:
+#### I'm a recent graduate with a Bachelor of Science in Information Technology/Cybersecurity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Some facts about me:
+- 🏠 **Hometown:** New Jersey
+- 😄 **Pronouns:** He/Him
+- ⚡ **Fun fact:** I'm a constant learner
+- 📫 Ask me about license plates
+
+<br />
+
+[![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=aseams&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+### Languages and Tools:
+
+<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /><img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+<img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
