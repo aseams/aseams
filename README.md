@@ -23,8 +23,13 @@
 
 <br /><br />
 
-<div>
+<div width="100%">
   <img align=top width=45% src="https://github-readme-stats.vercel.app/api?username=aseams&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
   <img align=top width=37.5% src="https://github-readme-stats.vercel.app/api/top-langs/?username=aseams&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
-  <br><sub>The mass amount of HTML is due to Sphinx</sub>
+  <br>
+  <div text-align="right">
+    <sub>
+      &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;The mass amount of HTML is due to Sphinx
+    </sub>
+  </div>
 <div>
